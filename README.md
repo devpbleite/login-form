@@ -6,19 +6,15 @@
 
 # Login Form 🖥️
 
- -  App desenvolvido com a ideia de você poder pesquisar sobre como está as condições climáticas de basicamente qualquer lugar do mundo.
+ -  Formulário de login básico desenvolvido para exercitar os conhecimentos nas tecnologias utilizadas.
  <br><br>
 
 ## Sobre o Projeto:
 ___
 
-  - A aplicação foi desenvolvida utilizando React JS + Vite e Tailwind CSS para a interface e a aplicação consome a Weather API, uma API grátis para as requisições e consultas das condições climáticas dos locais desejados.
+  - O formulário foi desenvolvido utilizando React JS + Vite e Tailwind CSS para a interface.
    <br><br>
 
-## Extras:
----
- - Botões para mudar as cores do tema da aplicação para Modo Claro ou Modo Escuro.
- - Botão para deixar as cores do tema de acordo com o sistema do usuário, utilizando local storage.
 
 ## Tecnologias Utilizadas:
 ---
@@ -27,9 +23,8 @@ ___
 - Git e Github
 
 
-## 📌 Resultado do Projeto:
----
-### Modo Escuro 🌙
+## 📌 Resultado do Projeto:---
+
 <br>
 <img src="https://github.com/devpbleite/login-form/blob/main/src/assets/login-form.png" width="100%"><br><br>
 
